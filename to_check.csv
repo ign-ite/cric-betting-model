@@ -1,0 +1,11 @@
+teamA,teamB,winner,venue,date,toss_winner,toss_decision,competition,teamA_win_pct_last5,teamB_win_pct_last5,teamA_vs_teamB_h2h,teamA_avg_runs_scored,teamB_avg_runs_conceded,teamB_avg_runs_scored,teamA_avg_runs_conceded,venue_win_bias_teamA,venue_win_bias_teamB,toss_helped_win_rate,batting_first_win_pct,toss_decision_match_teamA,toss_decision_match_teamB,is_home_teamA,teamA_form_score,teamB_form_score,match_winner_teamA
+Australia,Sri Lanka,Sri Lanka,Melbourne Cricket Ground,2017-02-17,Sri Lanka,field,Sri Lanka in Australia T20I Series,0.5,0.5,0.5,150.0,160.0,150.0,160.0,0.5,0.5,0.5,0.5,0,0,0,8.8,7.5,0
+Australia,Sri Lanka,Sri Lanka,"Simonds Stadium, South Geelong",2017-02-19,Sri Lanka,field,Sri Lanka in Australia T20I Series,0.0,1.0,0.0,168.0,168.0,172.0,172.0,0.5,0.5,1.0,0.0,0,0,0,12.35,15.6,0
+Australia,Sri Lanka,Australia,Adelaide Oval,2017-02-22,Sri Lanka,field,Sri Lanka in Australia T20I Series,0.0,1.0,0.0,170.5,170.5,174.0,174.0,0.5,0.5,1.0,0.0,0,0,0,10.7,12.566666666666666,1
+North-West Warriors,Northern Knights,North-West Warriors,"The Green, Comber",2016-05-27,North-West Warriors,bat,Cricket Ireland Inter-Provincial Twenty20 Trophy,0.5,0.5,0.5,150.0,160.0,150.0,160.0,0.5,0.5,0.5,0.3333333333333333,0,0,0,7.399999999999999,9.2,1
+Knights,Cape Cobras,Knights,"New Wanderers Stadium, Johannesburg",2016-11-12,Cape Cobras,field,CSA T20 Challenge,0.5,0.5,0.5,150.0,160.0,150.0,160.0,0.5,0.5,0.5,0.5,0,0,0,10.3,16.7,1
+Titans,Lions,Titans,"New Wanderers Stadium, Johannesburg",2016-11-12,Lions,field,CSA T20 Challenge,0.5,0.5,0.5,150.0,160.0,150.0,160.0,0.0,0.0,0.5,0.6,0,0,0,8.0,12.133333333333333,1
+Dolphins,Warriors,Warriors,"Kingsmead, Durban",2016-11-13,Warriors,field,CSA T20 Challenge,0.5,0.5,0.5,150.0,160.0,150.0,160.0,0.5,0.5,0.5,0.6666666666666666,0,0,0,7.45,6.6,0
+Cape Cobras,Titans,Titans,"Boland Park, Paarl",2016-11-16,Cape Cobras,bat,CSA T20 Challenge,0.0,1.0,0.5,146.0,152.0,194.0,184.0,0.5,0.5,0.0,0.5714285714285714,0,1,0,16.7,6.4,0
+Knights,Titans,Titans,"Willowmoore Park, Benoni",2016-11-18,Knights,bat,CSA T20 Challenge,1.0,1.0,0.5,184.0,146.5,168.0,146.0,0.5,0.5,0.5,0.5,1,1,0,11.4,10.266666666666667,0
+Titans,Dolphins,Titans,"Mangaung Oval, Bloemfontein",2016-11-20,Dolphins,field,CSA T20 Challenge,1.0,0.0,0.5,174.0,118.0,115.0,159.33333333333334,0.5,0.5,0.5,0.4444444444444444,0,0,0,14.666666666666668,7.8,1
