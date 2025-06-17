@@ -12,7 +12,7 @@ This project uses historical T20 cricket data to train ML models that can predic
 - 📈 Achieved ~73% accuracy on unseen test data
 - ⚙️ Performed hyperparameter tuning using GridSearchCV
 - 📉 Evaluated model using:
-  - Accuracy Score
+  - Accuracy Score (`~73%`)
   - Log Loss (`~0.53`)
   - Brier Score (`~0.18`)
 
